@@ -1,0 +1,89 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family:'Merriweather Sans', sans-serif;
+  font-size:100%;
+}
+h1{
+    font-size:5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    line-height: 2;
+  }
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size:2.5rem;
+    color:#66BFBF;
+    font-weight: normal;
+  }
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+  }
+hr{
+    background-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 6px;
+    width: 5%;
+
+  }
+.top-container{
+  background-color:#EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+.top-cloud{
+  position: absolute;
+  right: 200px;
+  top: 50px;
+
+}
+.bottom-cloud{
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.web{
+  text-decoration: underline;
+}
+.python-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.html-gify{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.footer-link{
+  color: #11999E;
+  text-decoration: none;
+}
+.bottom-container{
+  background-color:  #66BFBF;
+  margin:40px 0 0 0;
+  padding: 50px;
+}
+.btn{
+  background-color:  #66BFBF;
+  margin: 20px;
+  border-radius: 10px;
+  text-decoration:none;
+  color: white;
+}
+.nameSurname{
+  color: white;
+  margin-bottom: 0;
+
+}
